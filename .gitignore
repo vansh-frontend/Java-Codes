@@ -1,0 +1,7 @@
+
+# Ignore all .class files
+*.class
+
+# Ignore directories named "bin" or "out" (commonly used for compiled files)
+bin/
+out/
