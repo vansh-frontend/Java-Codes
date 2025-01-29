@@ -6,12 +6,12 @@ class Name{
 }
 class AGE extends  Name{
    public void age(){
-      System.out.println("\n age: 22");
+      System.out.println("age: 22");
    }
 }
 class UID extends  AGE{
    public void uid(){
-      System.out.println("\n uid:22BCA10001");
+      System.out.println("uid:22BCA10001");
    }
 }
 public class Multi{
